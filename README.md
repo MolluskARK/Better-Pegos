@@ -1,2 +1,2 @@
-# Plugin Template
-ArkServerApi plugin template
+# Better Pegos
+Pegomastax no longer steals Cryopods.
